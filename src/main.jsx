@@ -1,3 +1,6 @@
+import { installMaydayHuntKillSwitch } from "./lib/maydayHuntKillSwitch.js";
+installMaydayHuntKillSwitch();
+
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 import { HashRouter } from 'react-router-dom'
